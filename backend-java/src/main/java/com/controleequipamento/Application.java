@@ -1,4 +1,4 @@
-package com.belmiro.controleequipamento;
+package com.controleequipamento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
