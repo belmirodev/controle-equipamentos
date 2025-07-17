@@ -44,7 +44,7 @@ public class Funcionario implements Serializable {
 		return id;
 	}
 
-	public void setIdLong(Long id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
